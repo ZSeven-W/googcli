@@ -1,0 +1,12 @@
+{
+  "name": "googcli",
+  "version": "0.1.0",
+  "description": "Local Google Workspace command planner CLI",
+  "type": "module",
+  "bin": {
+    "googcli": "src/cli.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
